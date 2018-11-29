@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lenovo\documents\visual studio 2015\projects\mipsim\mipsim\source.cpp(324): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  mipsim.vcxproj -> C:\Users\lenovo\documents\visual studio 2015\Projects\mipsim\Debug\mipsim.exe
+  mipsim.vcxproj -> C:\Users\lenovo\documents\visual studio 2015\Projects\mipsim\Debug\mipsim.pdb (Partial PDB)
